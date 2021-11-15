@@ -1,5 +1,12 @@
 # Robust enhancer-gene association prediction using single cell transcriptomes and epigenomes
 
+This repo is now superseded by this repo under mukamel-lab:
+
+[SingleCellFusion_EnhancerPaper](https://github.com/mukamel-lab/SingleCellFusion_EnhancerPaper)
+
+(Old)
+---
+
 
 This is the repository that hosts customized scripts for the analysis of enhancer-gene associations in neurons from mouse primary motor cortex.
 
