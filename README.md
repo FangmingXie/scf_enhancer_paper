@@ -2,7 +2,7 @@
 
 This repo is now superseded by this repo under mukamel-lab:
 
-[SingleCellFusion_EnhancerPaper](https://github.com/mukamel-lab/SingleCellFusion_EnhancerPaper)
+[mukamel-lab/SingleCellFusion_EnhancerPaper](https://github.com/mukamel-lab/SingleCellFusion_EnhancerPaper)
 
 (Old)
 ---
